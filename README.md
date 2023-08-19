@@ -1,15 +1,14 @@
-[![MasterHead](https://i.pinimg.com/originals/50/70/f9/5070f9e7af565d1d16a3edfd7f53cd1e.png)]
+![MasterHead](https://camo.githubusercontent.com/67226e572cc80733d0fbeda307470199519f7ae1c3d27e59b7828e0c6b401ea8/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372d31303234783330302e676966)
 <h1 align="center">Hi 👋, I'm Srashti</h1>
 <h3 align="center">A computer science student with excellence in web development along with good communication and leadership skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srashtiiii&label=Profile%20views&color=0e75b6&style=flat" alt="srashtiiii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srashtiiii" alt="srashtiiii" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
 
-- 💬 Ask me about **Java , React , HTML, CSS , Android Application Development**
+- 💬 Ask me about **Java, React, HTML, CSS, Android Application Development**
 
 - 📫 How to reach me **srashtig03@gmail.com**
 
