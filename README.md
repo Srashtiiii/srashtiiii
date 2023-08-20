@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srashtiiii&label=Profile%20views&color=0e75b6&style=flat" alt="srashtiiii" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
-
 - 💬 Ask me about **Java, React, HTML, CSS, Android Application Development**
 
 - 📫 How to reach me **srashtig03@gmail.com**
